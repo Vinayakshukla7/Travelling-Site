@@ -35,9 +35,10 @@
             }
             .logo img{
                 float:left;
-                width:100px;
-                height: 100px;
+                width:130px;
+                height: 130px;
                 color: aliceblue;
+                opacity:60;
             }
             .main{
                 max-width: 1200px;
